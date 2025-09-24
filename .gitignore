@@ -1,6 +1,7 @@
 # --- Датасеты ---
 Data/
 Features/
+cat_samples/
 # --- Виртуальное окружение ---
 .venv/
 venv/
